@@ -1,4 +1,5 @@
 Install intel usb driver `iSocUSB-Driver-Setup-1.0.4.exe`
+
 Install xFSTK downloader `xfstk-downloader-setup-1.5.1.exe`
 
 
@@ -24,5 +25,9 @@ L-----OS Image > droidboot.img.POS_sign.bin
 ```
 
 Press `Begin Download`
+
 Power off the device
+
 Press `Volume down` and plug usb cable
+
+> This is collection of zenfone c Z007 tools and firmware obtained from public domain. All right belong to respectable owner, in this case Intel Corporation and AsusTek Computer Inc
