@@ -9,9 +9,9 @@ Change MODE (Bottom part of app) to `CLVP A0/B0/B1`
 Options
 L-----Modify Settings
       L-----Download Options
-            +-----Enable GP Flag Override > CHECKBOX
+            +-----Enable GP Flag Override (CHECKBOX) > Check
             +-----GP Flag Override Value > 0x80000045
-            +-----Include Softfuse File > CHECKBOX
+            +-----Include Softfuse File (CHECKBOX) > Check
             L-----Include Softfuse File > soft-fuse.bin
             L-----Device Detection Timeout > 120
 
@@ -30,4 +30,4 @@ Power off the device
 
 Press `Volume down` and plug usb cable
 
-> This is collection of zenfone c Z007 tools and firmware obtained from public domain. All right belong to respectable owner, in this case Intel Corporation and AsusTek Computer Inc
+> This is collection of zenfone c Z007 tools and firmware obtained from public domain. All rights belong to respectable owner, in this case Intel Corporation and AsusTek Computer Inc
