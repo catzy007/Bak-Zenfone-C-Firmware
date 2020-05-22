@@ -2,7 +2,6 @@ Install intel usb driver `iSocUSB-Driver-Setup-1.0.4.exe`
 
 Install xFSTK downloader `xfstk-downloader-setup-1.5.1.exe`
 
-
 Change MODE (Bottom part of app) to `CLVP A0/B0/B1`
 
 ```
@@ -75,5 +74,11 @@ fastboot reboot
 ```
 
 Wait for device to boot up
+
+For Hardcore users
+
+<https://sourceforge.net/projects/xfstk/>
+
+`sudo apt install android-tools-adb android-tools-fastboot`
 
 > This is collection of zenfone c Z007 tools and firmware obtained from public domain. All rights belong to respectable owner, in this case Intel Corporation and AsusTek Computer Inc
