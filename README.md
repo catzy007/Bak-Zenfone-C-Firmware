@@ -31,7 +31,7 @@ Press `Volume down` and plug usb cable
 
 Power off the device again
 
-Extract `WW-ZC451CG-4.11.40.55-rel-user-20150125-184047-signed.zip`
+[Download](https://drive.google.com/file/d/1XmkSyHN-qGrv1j1tMecVLChg60APoKfZ/view?usp=sharing) and Extract `WW-ZC451CG-4.11.40.55-rel-user-20150125-184047-signed.zip`
 
 Go to extracted directory
 
